@@ -1,5 +1,5 @@
 
-# 핏로그 FITLOG
+# 💪 핏로그 FITLOG
 
 ## 프로젝트 소개
 ### Fitlog (Fitlog, Fitness + Log)
