@@ -10,3 +10,13 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+
+## 1. 프로젝트 주제 및 소개
+
+## 2. 진행 기간
+
+## 3. 팀원
+
+## 4. 기술 스택
+
+## 5. 팀원
