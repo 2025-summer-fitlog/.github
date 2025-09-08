@@ -16,6 +16,7 @@ https://fitlog-site.vercel.app/
 
 ## 3. 팀원
 
+| | |
 | :---: | :---: |
 | <img src="https://avatars.githubusercontent.com/u/210150779?s=96&v=4" width="150"><br />**한의진**<br />프론트엔드 | <img src="https://avatars.githubusercontent.com/u/211123954?s=96&v=4" width="150"><br />**조서윤**<br />프론트엔드 |
 | <img src="https://avatars.githubusercontent.com/u/81521290?s=96&v=4" width="150"><br />**안재일**<br />백엔드 / PM | <img src="https://avatars.githubusercontent.com/u/173528886?s=96&v=4" width="150"><br />**도가윤**<br />백엔드 |
