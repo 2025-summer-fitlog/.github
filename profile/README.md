@@ -12,10 +12,10 @@
 URL - https://fitlog-site.vercel.app/
 
 
-## 2. 진행 기간
+## 진행 기간
 2025.07.01 ~ 2025.08.17
 
-## 3. 팀원
+## 팀원 소개
 
 | | |
 | :---: | :---: |
@@ -23,7 +23,7 @@ URL - https://fitlog-site.vercel.app/
 | <img src="https://avatars.githubusercontent.com/u/81521290?s=96&v=4" width="150"><br />**안재일**<br />백엔드 / PM | <img src="https://avatars.githubusercontent.com/u/173528886?s=96&v=4" width="150"><br />**도가윤**<br />백엔드 |
 
 
-## 4. 기술 스택
+## 기술 스택
 #### Frontend
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
 
